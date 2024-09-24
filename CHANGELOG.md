@@ -1,8 +1,4 @@
-# 🏭 FairFab dApp
-
-A dApp to interact with the Fair Fabric ecosystem.
-
-## Synopsis
+# 🏭 Changelog of FairFabProject dApp
 
 ## License
 
@@ -21,4 +17,3 @@ A dApp to interact with the Fair Fabric ecosystem.
 > See the License for the specific language governing permissions and
 > limitations under the License.
 > 
-
